@@ -1,3 +1,5 @@
+![License: ISC](https://img.shields.io/badge/License-ISC-blue.svg)
+
 # 🎯 SQA / SDET Automation Portfolio
 
 This portfolio demonstrates my ability to test backend software platforms in regulated, logic-heavy environments — aligned with the expectations for modern SQA and SDET roles.
@@ -48,17 +50,35 @@ qa-automation-portfolio/
 npm install
 ```
 
-## 2. Run Tests
+### 2. Run Tests
 
 ```bash
 npm test
 ```
 
+### 3. Start Server (Optional)
+
+```bash
+npm start
+```
+
+---
+
+## 📄 Test Run Report
+
+The full Test Run Report for the Initial Regression Run is available [here](https://app.qase.io/public/report/9acc00fe4a841e97d2e1856e2a851f7a592af9b2).
+
+It includes:
+- Summary of all executed test cases
+- Pass/Fail counts
+- Linked defects
+- Execution environment (Localhost API)
+
 ---
 
 ## 📄 Documentation Included
 
-- Test Plan — Overall QA strategy and coverage
+- Test Plan — Defines overall test strategy, scope, and objectives
 - Test Cases — Positive, negative, and edge case scenarios
 - Bug Reports — Defects found during manual and automated testing
 - Qase Integration — Screenshots and management of manual tests and defect tracking using Qase.io

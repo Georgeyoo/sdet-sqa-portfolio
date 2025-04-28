@@ -1,16 +1,17 @@
 {
   "name": "qa-portfolio",
   "version": "1.0.0",
-  "description": "",
-  "main": "index.js",
+  "description": "Simulated Casino API for QA Automation Portfolio",
+  "main": "simulated-casino-api/app.js",
   "directories": {
     "doc": "docs"
   },
   "scripts": {
-    "test": "jest"
+    "test": "jest",
+    "start": "node simulated-casino-api/app.js"
   },
   "keywords": [],
-  "author": "",
+  "author": "George Yoo",
   "license": "ISC",
   "dependencies": {
     "express": "^5.1.0",
