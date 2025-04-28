@@ -66,6 +66,7 @@ npm test
 
 ## 📣 About Me
 
-I’m a backend engineer pivoting into QA automation with 5+ years of experience building and debugging platform-level systems. I’ve worked closely with QA teams and recently began building automation skills to transition into regulated software testing.
+I'm a full-stack engineer pivoting into QA automation and software quality assurance, with 5+ years of experience building, debugging, and maintaining platform-level systems.  
+I have worked closely with QA and product teams throughout my career, and I am now specializing in automation, functional validation, and system testing.
 
-This portfolio is a step toward specializing in automation and quality assurance for critical, logic-heavy systems—like IGT’s gaming platforms.
+This portfolio demonstrates my ability to design, automate, manually validate, and document QA efforts for critical, logic-heavy platforms — such as those found in gaming, finance, healthcare, and other regulated industries.
