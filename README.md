@@ -70,3 +70,13 @@ I'm a full-stack engineer pivoting into QA automation and software quality assur
 I have worked closely with QA and product teams throughout my career, and I am now specializing in automation, functional validation, and system testing.
 
 This portfolio demonstrates my ability to design, automate, manually validate, and document QA efforts for critical, logic-heavy platforms — such as those found in gaming, finance, healthcare, and other regulated industries.
+
+## 📬 Contact
+
+I'm actively seeking opportunities in Software Quality Assurance (SQA) and Software Development Engineer in Test (SDET) roles.
+
+- 📧 Email: gcyoosf@gmail.com
+- 💼 LinkedIn: [George Yoo](https://www.linkedin.com/in/george-yoo/)
+- 🖥️ GitHub: [georgeyoo](https://github.com/georgeyoo)
+
+Feel free to connect with me!
