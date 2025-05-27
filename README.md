@@ -37,6 +37,15 @@ qa-automation-portfolio/
 │   ├── test-cases.md
 │   ├── bug-reports.md
 │   └── qase-integration.md
+├── cypress/
+│   ├── downloads/
+│   ├── e2e/
+│       └── casino-api.cy.js
+│   ├── fixtures/
+│       └── user.json
+│   └── support/
+│       ├── commands.js
+│       └── e2e.js
 └── README.md 
 ```
 
@@ -83,6 +92,31 @@ It includes:
 - Bug Reports — Defects found during manual and automated testing
 - Qase Integration — Screenshots and management of manual tests and defect tracking using Qase.io
 
+
+---
+
+## 🧪 Cypress API Test Automation
+
+In addition to Jest and Supertest, this project includes an automated **Cypress-based API test suite** that validates all key user workflows via direct HTTP requests.
+
+These Cypress tests cover:
+
+- ✅ Login, Signup, and Authentication Flows
+- ✅ Account actions: Deposit, Withdraw, Balance Check
+- ✅ Game logic: Spin with win/lose outcomes
+- ✅ Robust failure scenarios: Invalid logins, insufficient funds, bad input
+
+📂 Test location: `cypress/e2e/casino-api.cy.js`  
+📁 Fixtures used: `cypress/fixtures/user.json`  
+⚙️ Custom command: `cy.login()` defined in `cypress/support/commands.js`
+
+To run the Cypress tests:
+
+```bash
+npx cypress open # Opens visual runner
+
+npx cypress run # Runs headlessly
+```
 
 ## 📣 About Me
 

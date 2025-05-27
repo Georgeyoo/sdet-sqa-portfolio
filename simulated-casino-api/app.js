@@ -99,7 +99,7 @@ module.exports = app;
 
 // Start Server (only if run directly, not during testing)
 if (require.main === module) {
-  const PORT = process.env.PORT || 3000;
+  const PORT = process.env.PORT || 3033;
   app.listen(PORT, () => {
     console.log(`Casino API server running on http://localhost:${PORT}`);
   });
